@@ -1,1 +1,1 @@
-# storage-service
+# @nuxt4-layers/storage-service
